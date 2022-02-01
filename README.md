@@ -32,6 +32,7 @@ Use Cases -
 	
 
 Backend -
+
 	Save User Details in DB on sign up
 	Verifying User Credentials on Login
 	Based on role, Send Product Details to Front end
@@ -45,6 +46,7 @@ Backend -
 		- For Admin, extra field showiing approval status
 	
 Front End -
+
 	Registration Page
 	Login Page
 	Product Details Page
@@ -57,4 +59,4 @@ Front End -
 		- place order 
 	payment page
 	Order History Page
-  Admin Portal
+  	Admin Portal
